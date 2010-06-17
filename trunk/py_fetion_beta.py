@@ -46,8 +46,8 @@ def search():
         py_fetion_message(search_id)
 
 
-NAME = u'13671854723'
-PASSWORD = u'tsyj139'
+NAME = u'136718547232'
+PASSWORD = u'tsyj139wereer'
 appuifw.note(u"Waiting ...", "info")
 
 # open the contacts database
